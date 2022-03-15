@@ -1,0 +1,14 @@
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\bin\Debug\netcoreapp3.1\Delgates.exe
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\bin\Debug\netcoreapp3.1\Delgates.deps.json
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\bin\Debug\netcoreapp3.1\Delgates.runtimeconfig.json
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\bin\Debug\netcoreapp3.1\Delgates.runtimeconfig.dev.json
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\bin\Debug\netcoreapp3.1\Delgates.dll
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\bin\Debug\netcoreapp3.1\Delgates.pdb
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\obj\Debug\netcoreapp3.1\Delgates.csproj.AssemblyReference.cache
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\obj\Debug\netcoreapp3.1\Delgates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\obj\Debug\netcoreapp3.1\Delgates.AssemblyInfoInputs.cache
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\obj\Debug\netcoreapp3.1\Delgates.AssemblyInfo.cs
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\obj\Debug\netcoreapp3.1\Delgates.csproj.CoreCompileInputs.cache
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\obj\Debug\netcoreapp3.1\Delgates.dll
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\obj\Debug\netcoreapp3.1\Delgates.pdb
+C:\Users\njabulo\Documents\github\C-Sharp-Lessons\Delgates\obj\Debug\netcoreapp3.1\Delgates.genruntimeconfig.cache
